@@ -87,8 +87,11 @@ public class part1 {
         System.out.println("7 & 10: " + (7 & 10 ));
         System.out.println("7 ^ 10: " + (7 ^ 1));
         System.out.println("7 | 10: " + (7 | 1));
-        String S = "Hello";
+        
+        
+        String S = "Hello"; 
         boolean result = S instanceof String;
         System.out.println("hello instance" + result);
+        //kiem tra bien tham chieu co tro toi s cua doi tuong thuoc lop string khong
     }
 }
