@@ -87,5 +87,8 @@ public class part1 {
         System.out.println("7 & 10: " + (7 & 10 ));
         System.out.println("7 ^ 10: " + (7 ^ 1));
         System.out.println("7 | 10: " + (7 | 1));
+        String S = "Hello";
+        boolean result = S instanceof String;
+        System.out.println("hello instance" + result);
     }
 }
