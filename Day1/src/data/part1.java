@@ -47,6 +47,13 @@ doi tuong object string == so sánh dia chi o nho khong so noi dung ben trong(so
 A && B neu A la false java khong them tinh B nua vi ket qua là false
 A || B neu A à true java cung khong them tinh b nua vi chac chan ket qua la true
 */
+
+/* toan tu 3 ngoi
+? viet tat cua cau lenh if else
+=> cu phap no la (dieu kien) ? (gia tri neu dung) : (gia tri neu sai);
+int max = (a > b) ? a : b;
+
+*/
 public class part1 {
 //    public static void main(String[] args) {
 //        int a = 5; 
@@ -64,12 +71,12 @@ public class part1 {
 //        System.out.println( a < 20);
 //    }
     
-    public static void main(String[] args) {
-        String s = null;
-        //dung && an toan s != null la false -> ngat luon khong chay ve sau nua 
-        if(s !=null && s.length() > 0 ){}
-        // con dung s  no co tinh ca s.length()bi nullpointerexception
-    }
+//    public static void main(String[] args) {
+//        String s = null;
+//        //dung && an toan s != null la false -> ngat luon khong chay ve sau nua 
+//        if(s !=null && s.length() > 0 ){}
+//        // con dung s  no co tinh ca s.length()bi nullpointerexception
+//    }
     
     
 }
