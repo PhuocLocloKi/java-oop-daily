@@ -103,6 +103,13 @@ public class part1 {
           System.out.println("SE\tNguyen Loc\t9.0");
           
 //       \" in dau ngoac kep ben trong chuoi'
-         System.out.println("Tao noi la: \" tao la manh nhat\"");
+         System.out.println("Tao noi la: \"tao la manh nhat\"");
+         
+         //viet dau gach cheo \\
+         System.out.println("\\Hello\\Xin chao");
+         // \' (Dấu nháy đơn)
+        // \b (Backspace - Xóa lùi)
+        // ve dau dong \r
+        // sang trang moi \f
     }
 }
