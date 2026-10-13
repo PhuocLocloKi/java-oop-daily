@@ -93,5 +93,7 @@ public class part1 {
         boolean result = S instanceof String;
         System.out.println("hello instance" + result);
         //kiem tra bien tham chieu co tro toi s cua doi tuong thuoc lop string khong
+        //dung instcanceof laf de hoi truoc kiem tra truoc mot thu gi do giup an toan hon
+        
     }
 }
