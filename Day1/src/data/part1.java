@@ -78,5 +78,11 @@ public class part1 {
 //        // con dung s  no co tinh ca s.length()bi nullpointerexception
 //    }
     
-    
+    public static void main(String[] args) {
+        int x = -10;
+        
+        System.out.println("-10<<1" + (x << 1 ));
+        System.out.println("-10>>1" + (x >> 1 ));
+        System.out.println("-10>>>1" + (x >>> 1 ));
+    }
 }
