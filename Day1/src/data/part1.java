@@ -86,5 +86,6 @@ public class part1 {
         System.out.println("-10>>>1" + (x >>> 1 ));
         System.out.println("7 & 10: " + (7 & 10 ));
         System.out.println("7 ^ 10: " + (7 ^ 1));
+        System.out.println("7 | 10: " + (7 | 1));
     }
 }
