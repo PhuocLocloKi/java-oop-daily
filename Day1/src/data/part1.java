@@ -95,5 +95,14 @@ public class part1 {
         //kiem tra bien tham chieu co tro toi s cua doi tuong thuoc lop string khong
         //dung instcanceof laf de hoi truoc kiem tra truoc mot thu gi do giup an toan hon
         
+        
+
+//       \n xuong dong
+//       \t tab thut dau dong
+          System.out.println("MSSV\tHo Ten\tDiem");
+          System.out.println("SE\tNguyen Loc\t9.0");
+          
+//       \" in dau ngoac kep ben trong chuoi'
+         System.out.println("Tao noi la: \" tao la manh nhat\"");
     }
 }
