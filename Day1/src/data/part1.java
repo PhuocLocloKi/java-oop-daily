@@ -34,6 +34,17 @@ Toán tử	Nghĩa	Ví dụ	Kết quả
 >=	Lớn hơn hoặc bằng
 
 */
+
+/*
+ ==, != (so sanh bang va khac)
+kieu nguyen thuy thi int, char  == so sanh gia tri 
+doi tuong object string == so sánh dia chi o nho khong so noi dung ben trong(so sanh noi dung dung .equals())
+*/
+
+/*  && || doan mach
+A && B neu A la false java khong them tinh B nua vi ket qua là false
+A || B neu A à true java cung khong them tinh b nua vi chac chan ket qua la true
+*/
 public class part1 {
 //    public static void main(String[] args) {
 //        int a = 5; 
@@ -46,8 +57,10 @@ public class part1 {
 //        System.out.println( 1 + 2 + "Java");// in ra "3 java" (tinh 1 + 2 = 3, roi moi noi chuoi
 //    }
     
-    public static void main(String[] args) {
-        int a = 10;
-        System.out.println( a < 20);
-    }
+//    public static void main(String[] args) {
+//        int a = 10;
+//        System.out.println( a < 20);
+//    }
+    
+    
 }
