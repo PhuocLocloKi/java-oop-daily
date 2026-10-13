@@ -4,6 +4,8 @@
  */
 package data;
 
+import com.sun.org.apache.xml.internal.utils.res.StringArrayWrapper;
+
 /**
  *
  * @author PC
@@ -61,6 +63,13 @@ public class part1 {
 //        int a = 10;
 //        System.out.println( a < 20);
 //    }
+    
+    public static void main(String[] args) {
+        String s = null;
+        //dung && an toan s != null la false -> ngat luon khong chay ve sau nua 
+        if(s !=null && s.length() > 0 ){}
+        // con dung s  no co tinh ca s.length()bi nullpointerexception
+    }
     
     
 }
