@@ -47,47 +47,47 @@ null no la ban hoan toan khong có gi ca khong co vi hay tien luon
 */   
     //chuyen doi va ep kieu java
 
-    public static void main(String[] args) {
-//        int a = 130;
-//        byte b = (byte) a;
-//        System.out.println(b); //byte java chua tu -128 - 127 -> 130 vuot qua xa
+//    public static void main(String[] args) {
+////        int a = 130;
+////        byte b = (byte) a;
+////        System.out.println(b); //byte java chua tu -128 - 127 -> 130 vuot qua xa
+////        
+////        //ep so thuc ve s nguyen 
+////        double diem = 9.0;
+////        int diemLamTron = (int) diem;
+////        System.out.println(diemLamTron);
 //        
-//        //ep so thuc ve s nguyen 
-//        double diem = 9.0;
-//        int diemLamTron = (int) diem;
-//        System.out.println(diemLamTron);
-        
-//        //pham vi hoat dong, vong doi cua bien
-//        int x = 10, k = 2;
-//        int y = 0; //khai bao bien o ngoai
-//        if(x < 2){
-//            y = 3; //ben trong chi gan lai gia tri
-//        }
-//        y = 6; //o ngoai van dung binh thuong, khong bao gio bi loi
+////        //pham vi hoat dong, vong doi cua bien
+////        int x = 10, k = 2;
+////        int y = 0; //khai bao bien o ngoai
+////        if(x < 2){
+////            y = 3; //ben trong chi gan lai gia tri
+////        }
+////        y = 6; //o ngoai van dung binh thuong, khong bao gio bi loi
+////        
+////        int i;
+////        for(i = 1; i < 3; i++) x+=i;
+////        k += i;
+////        //la 
+////        
+////        System.out.println("x =  " + x);
+////        System.out.println("y =  " + y);
+////        System.out.println("k =  " + k);
+////        System.out.println("i =  " + i);
 //        
-//        int i;
-//        for(i = 1; i < 3; i++) x+=i;
-//        k += i;
-//        //la 
-//        
-//        System.out.println("x =  " + x);
-//        System.out.println("y =  " + y);
-//        System.out.println("k =  " + k);
-//        System.out.println("i =  " + i);
-        
-
-/*
-string args la string no la mang cua chuoi
-args viet tat cua thang arguments (các tham so truyen vao)
-khi ma run a co the nem tat ca các gia tri tu ben ngoai vao chuong trinh de chay
-
-
-*/  
-//    args = new String[] {"100", "200"};
-//    double x = Double.parseDouble(args[0]); //lay chuoi 100 ra bien nó thanh con so thuc 100.0 de luu vao bien x
-//    double y = Double.parseDouble(args[1]);
-//    System.out.println("Sum = " + (x + y)); // phep tinh tong cua x + y
-      
-    
-    }
+//
+///*
+//string args la string no la mang cua chuoi
+//args viet tat cua thang arguments (các tham so truyen vao)
+//khi ma run a co the nem tat ca các gia tri tu ben ngoai vao chuong trinh de chay
+//
+//
+//*/  
+////    args = new String[] {"100", "200"};
+////    double x = Double.parseDouble(args[0]); //lay chuoi 100 ra bien nó thanh con so thuc 100.0 de luu vao bien x
+////    double y = Double.parseDouble(args[1]);
+////    System.out.println("Sum = " + (x + y)); // phep tinh tong cua x + y
+//      
+//    
+//    }
 }
