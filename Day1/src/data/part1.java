@@ -78,38 +78,42 @@ public class part1 {
 //        // con dung s  no co tinh ca s.length()bi nullpointerexception
 //    }
     
-    public static void main(String[] args) {
-        int x = -10;
-        
-        System.out.println("-10<<1" + (x << 1 ));
-        System.out.println("-10>>1" + (x >> 1 ));
-        System.out.println("-10>>>1" + (x >>> 1 ));
-        System.out.println("7 & 10: " + (7 & 10 ));
-        System.out.println("7 ^ 10: " + (7 ^ 1));
-        System.out.println("7 | 10: " + (7 | 1));
-        
-        
-        String S = "Hello"; 
-        boolean result = S instanceof String;
-        System.out.println("hello instance" + result);
-        //kiem tra bien tham chieu co tro toi s cua doi tuong thuoc lop string khong
-        //dung instcanceof laf de hoi truoc kiem tra truoc mot thu gi do giup an toan hon
-        
-        
-
-//       \n xuong dong
-//       \t tab thut dau dong
-          System.out.println("MSSV\tHo Ten\tDiem");
-          System.out.println("SE\tNguyen Loc\t9.0");
-          
-//       \" in dau ngoac kep ben trong chuoi'
-         System.out.println("Tao noi la: \"tao la manh nhat\"");
-         
-         //viet dau gach cheo \\
-         System.out.println("\\Hello\\Xin chao");
-         // \' (Dấu nháy đơn)
-        // \b (Backspace - Xóa lùi)
-        // ve dau dong \r
-        // sang trang moi \f
-    }
+//    public static void main(String[] args) {
+//        int x = -10;
+//        
+//        System.out.println("-10<<1" + (x << 1 ));
+//        System.out.println("-10>>1" + (x >> 1 ));
+//        System.out.println("-10>>>1" + (x >>> 1 ));
+//        System.out.println("7 & 10: " + (7 & 10 ));
+//        System.out.println("7 ^ 10: " + (7 ^ 1));
+//        System.out.println("7 | 10: " + (7 | 1));
+//        
+//        
+//        String S = "Hello"; 
+//        boolean result = S instanceof String;
+//        System.out.println("hello instance" + result);
+//        //kiem tra bien tham chieu co tro toi s cua doi tuong thuoc lop string khong
+//        //dung instcanceof laf de hoi truoc kiem tra truoc mot thu gi do giup an toan hon
+//        
+//        
+//
+////       \n xuong dong
+////       \t tab thut dau dong
+//          System.out.println("MSSV\tHo Ten\tDiem");
+//          System.out.println("SE\tNguyen Loc\t9.0");
+//          
+////       \" in dau ngoac kep ben trong chuoi'
+//         System.out.println("Tao noi la: \"tao la manh nhat\"");
+//         
+//         //viet dau gach cheo \\
+//         System.out.println("\\Hello\\Xin chao");
+//         // \' (Dấu nháy đơn)
+//        // \b (Backspace - Xóa lùi)
+//        // ve dau dong \r
+//        // sang trang moi \f
+//        
+//        
+//    }
+    
+    
 }
